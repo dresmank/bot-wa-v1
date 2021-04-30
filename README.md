@@ -1,4 +1,4 @@
-### I'm DimS Gift Me Stars 🌟 
+### I'm DimaS Gift Me Stars 🌟 
 
 ## Tools
 
@@ -17,7 +17,7 @@ Follow The Steps Below!
 > pkg update -y
 > pkg upgrade -y
 > pkg install git -y
-> git clone https://github.com/4NK3R-PRODUCT1ON/bot-wea-v2
+> git clone https://github.com/dresmank/bot-wea-v1
 > cd bot-wea-v2
 > npm cache clear
 > bash install.sh
@@ -222,7 +222,7 @@ Follow The Steps Below!
 * [FXC7 OFFICIAL TEAM]
 
 
-* [Req Fitur](https://wa.me/6281368646011)
+* [Req Fitur](https://wa.me/6285339002283)
 
 ## Group
 
