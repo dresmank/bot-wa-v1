@@ -18,7 +18,7 @@ Follow The Steps Below!
 > pkg upgrade -y
 > pkg install git -y
 > git clone https://github.com/dresmank/bot-wea-v1
-> cd bot-wea-v2
+> cd bot-wea-v1
 > npm cache clear
 > bash install.sh
 > npm audit fix
@@ -211,15 +211,6 @@ Follow The Steps Below!
 * |En| And You can add your own quotes
 * |Ind| Dan Kalian Bisa tambahkan Quotes Kalian
 
-
-## Special Thanks
-
-* [Adiwajshing Baileys](https://github.com/adiwajshing/baileys)
-* Created Bot => [MhankBarBar](https://github.com/MhankBarBar)
-* [NURUTOMO](https://github.com/nurutomo)
-* [NazwaS](https://github.com/nazwaS)
-* [FXC7](https://github.com/Fxc7)
-* [FXC7 OFFICIAL TEAM]
 
 
 * [Req Fitur](https://wa.me/6285339002283)
