@@ -17,12 +17,14 @@ Follow The Steps Below!
 > pkg update -y
 > pkg upgrade -y
 > pkg install git -y
-> git clone https://github.com/dresmank/bot-wea-v1
-> cd bot-wea-v1
+> git clone https://github.com/dresmank/bot-wa-v1
+> cd bot-wa-v1
 > npm cache clear
 > bash install.sh
 > npm audit fix
-> npm start / node index.js
+> npm start
+
+> untuk mematikan bot tekan ctrl+z
 ```
 
 
