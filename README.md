@@ -1,4 +1,4 @@
-### I'm DimaS Gift Me Stars 🌟 
+### I'm Dimas
 
 ## Tools
 
@@ -9,7 +9,7 @@
 ```
 
 ## Install
-Follow The Steps Below!
+By termux
 
 ```bash
 > termux-setup-storage
@@ -210,8 +210,7 @@ Follow The Steps Below!
 
 * Dont Forget Stars
 
-* |En| And You can add your own quotes
-* |Ind| Dan Kalian Bisa tambahkan Quotes Kalian
+* |Ind| KALO MAU SUKSES HOBINYA JANGAN REBAHAN
 
 
 
